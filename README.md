@@ -12,7 +12,8 @@ backend (a PHP webserver that provides REST JSON api endpoints).
 
 ## Install
 
-You need to install PHP and NodeJS locally. Then each of the 4 "application" must get their dependencies installed.
+- You need to install PHP (>7.1) and NodeJS (>6.0)
+- Then each of the 4 "application" must get their dependencies installed
 
 ## Run locally
 
